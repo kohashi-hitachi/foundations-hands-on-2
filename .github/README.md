@@ -1,2 +1,2 @@
-# foundations-hands-on-2
+# FOundations-hands-on-2
 
